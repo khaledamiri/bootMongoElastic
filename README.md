@@ -1,1 +1,2 @@
- 
+  how to establish connectivity between MongoDB and Elasticsearch and then look at a Maven-based Spring Boot application 
+  that persists data to a MongoDB database and queries to retrieve the same data in Elasticsearch
